@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by intense listening and watching a demonstration.</td>
+    <td>Mainly by focused listening and watching a demonstration.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
