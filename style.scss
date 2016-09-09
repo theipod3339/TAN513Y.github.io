@@ -23,6 +23,11 @@ body {
   color: #990099;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
