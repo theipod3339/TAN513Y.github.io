@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Team Leader for the Arts and Design at Dr Challoner's Grammar School
+Team Leader: "The Arts and Design" at Dr Challoner's Grammar School
 
 ### More Information
 
-Living proof that musicians are good programmers...?
+Living proof that musicians are good programmers...
 
 ### Contact me
 
