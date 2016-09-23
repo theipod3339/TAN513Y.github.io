@@ -22,8 +22,9 @@ html {
 body {
 	background: url(http://www.planwallpaper.com/static/images/518084-background-hd.jpg);
   background-repeat: no-repeat;
-  background-position: static;
+  background-position: fixed;
   background-size: 100% 100%;
+  background-attachment: fixed
   font: 18px/1.4 $helvetica;
   color:  #001a33;
 }
@@ -33,7 +34,7 @@ table{
 	margin-bottom:15px;
 }
 table, th, td {
-    border: 1px gray dotted;
+    border: 1px gray dashed;
     border-collapse: collapse;
     padding: 15px;
     text-align: left;
