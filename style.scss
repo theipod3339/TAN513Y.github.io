@@ -32,7 +32,7 @@ table{
 	width:100%;
 	margin-bottom:15px;
 }
-table, th, td {
+table, td {
     border: 2px #336699 dashed;
     border-radius: 25px;
     border-collapse: collapse;
@@ -40,7 +40,14 @@ table, th, td {
     text-align: left;
 }
 
-
+table, th {
+    border: 2px #336699 dashed;
+    border-radius: 25px;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: #ffbf80;
+    text-align: left;
+}
 
 .container {
   margin: 0 auto;
