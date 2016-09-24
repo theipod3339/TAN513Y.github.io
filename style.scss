@@ -1,4 +1,5 @@
-
+---
+---
 
 //
 // IMPORTS
@@ -19,7 +20,7 @@ html {
 }
 
 body {
-	background: url(http://my-smashing.smashingapps.netdna-cdn.com/wp-content/uploads/2010/03/Retro-Vintage-Style-Wallpapers/retrovintage_49.jpg);
+	background: url(https://www.google.co.uk/search?q=retro+wallpapers&espv=2&rlz=1CAASUK_enGB710GB710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjIzqy95afPAhWkJcAKHY9fA5AQ_AUICCgB&biw=1366&bih=675#imgrc=teNLlObUUjRLlM%3A);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -42,7 +43,7 @@ table, th {
     border-radius: 25px;
     border-collapse: collapse;
     padding: 15px;
-    background: linear-gradient(to left, #ffe680, #e6b800);
+    background: linear-gradient(to right, #ffe680, #e6b800);
     text-align: left;
 }
 
@@ -146,11 +147,11 @@ img {
 }
 
 // Specify the color of the selection
-:-moz-selection {
+::-moz-selection {
   color: $black;
   background: $lightGray;
 }
-:selection {
+::selection {
   color: $black;
   background: $lightGray;
 }
@@ -316,6 +317,5 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
 
 
