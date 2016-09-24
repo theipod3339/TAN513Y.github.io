@@ -1,6 +1,5 @@
-----
-----
--
+
+
 //
 // IMPORTS
 //
@@ -147,11 +146,11 @@ img {
 }
 
 // Specify the color of the selection
-::-moz-selection {
+:-moz-selection {
   color: $black;
   background: $lightGray;
 }
-::selection {
+:selection {
   color: $black;
   background: $lightGray;
 }
