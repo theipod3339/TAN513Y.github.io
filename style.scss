@@ -34,14 +34,14 @@ table{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
 table, td {
-    border-radius: 5px;
+    border-radius: 3px;
     border-collapse: collapse;
     padding: 15px;
     text-align: left;
 }
 
 table, th {
-    border-radius: 5px;
+    border-radius: 3px;
     border-collapse: collapse;
     padding: 15px;
     background: linear-gradient(to bottom, #ffffff, #f2f2f2);
@@ -61,7 +61,7 @@ iframe {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  border-radius: 5px;
+  border-radius: 3px;
   padding: 0 10px;
   width: 100%;
   background-color:rgba(255, 255, 255, 0.78);
@@ -214,7 +214,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 3px;
   }
 }
 
