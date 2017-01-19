@@ -20,7 +20,7 @@ published: true
 
 <table>
   <tr>
-    <td>Click Here</td>
+    <td>https://docs.google.com/a/challoners.org/spreadsheets/d/1flPnSykYdGWatufJl2rzn4RNclW8Un0RhlUFKDa_ILA/edit?usp=sharing</td>
   </tr>
 </table>
 
