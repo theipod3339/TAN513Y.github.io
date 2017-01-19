@@ -20,7 +20,7 @@ published: true
 
 <table>
   <tr>
-    <td><a href="https://docs.google.com/a/challoners.org/spreadsheets/d/1flPnSykYdGWatufJl2rzn4RNclW8Un0RhlUFKDa_ILA/edit?usp=sharing">![image alt text]({{ site.url }}/public/lHB1UFk1YCOv5EVhACtg_img_0.png)</a></td>
+    <td><a href="https://docs.google.com/a/challoners.org/spreadsheets/d/1flPnSykYdGWatufJl2rzn4RNclW8Un0RhlUFKDa_ILA/edit?usp=sharing">vShop - click here</a></td>
   </tr>
 </table>
 
