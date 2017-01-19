@@ -20,7 +20,7 @@ published: true
 
 <table>
   <tr>
-    <td>https://docs.google.com/a/challoners.org/spreadsheets/d/1flPnSykYdGWatufJl2rzn4RNclW8Un0RhlUFKDa_ILA/edit?usp=sharing</td>
+    <td><a href="https://docs.google.com/a/challoners.org/spreadsheets/d/1flPnSykYdGWatufJl2rzn4RNclW8Un0RhlUFKDa_ILA/edit?usp=sharing">The link to my Shop</a></td>
   </tr>
 </table>
 
