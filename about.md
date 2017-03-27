@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Team Leader: "The Arts and Design" at Dr Challoner's Grammar School
+A student at: Challoners
 
 ### More Information
 
-Living proof that musicians are good programmers...
+I'm an albertrause...
 
 ### Contact me
 
-[mta@challoners.org](mailto:mta@challoners.org)
+PLEASE DON'T...
