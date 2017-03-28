@@ -41,8 +41,9 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Today we had one of the most beneficial lessons to my learning in a long time. I really felt like what we did today could actually give me an understanding into how life is in the robotic industry. To code the arm I had to really persevere because I found it very complicated but I eventually got it to work. I wanted to challenge maneuverability so I practised picking up a usb stick.</td>
+    <td>Today we had one of the most beneficial lessons to my learning in a long time. I really felt like what we did today could actually give me an understanding into how life is in the robotic industry. To code the arm I had to really persevere because I found it very
   </tr>
+  <a><img src="http://i63.tinypic.com/2jfezaf.png" border="0"></a>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
@@ -57,4 +58,6 @@ published: true
   </tr>
 </table>
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/I-IPribsbgg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cDObwQBlTmQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
