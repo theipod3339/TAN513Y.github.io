@@ -58,3 +58,46 @@ published: true
 </table>
 
 
+<script>window.google={kEI:"Quz2S63qIYeglAfw8oHGCg",kEXPI:"17259,23663,24477,24661,24745,24770,24808",kCSI:{e:"17259,23663,24477,24661,24745,24770,24808",ei:"Quz2S63qIYeglAfw8oHGCg",expi:"17259,23663,24477,24661,24745,24770,24808"},ml:function(){},pageState:"#",kHL:"en",time:function(){return(new Date).getTime()},log:function(b,d,c){var a=new Image,e=google,g=e.lc,f=e.li;a.onerror=(a.onload=(a.onabort=function(){delete g[f]}));g[f]=a;c=c||"/gen_204?atyp=i&ct="+b+"&cad="+d+"&zx="+google.time();a.src=c;e.li=f+1},lc:[],li:0,j:{en:1,l:function(){},e:function(){},b:location.hash&&location.hash!="#",bv:3,pl:[],mc:0,sc:0.5},Toolbelt:{}};(function(){for(var d=0,c;c=["ad","bc","p","pa","zd","ac","pc","pah","ph","sa","xx","zc","zz"][d++];)(function(a){google.j[a]=function(){google.j.pl.push([a,arguments])}})(c)})();
+ window.google.sn="webhp";window.google.timers={load:{t:{start:(new Date).getTime()}}};try{window.google.pt=window.gtbExternal&&window.gtbExternal.pageT();}catch(u){}window.google.jsrt_kill=1;
+ </script>
+ <style>
+ </style>
+
+  
+<script>var _gjwl=location;function _gjuc(){var b=_gjwl.href.indexOf("#");if(b>=0){var a=_gjwl.href.substring(b+1);if(/(^|&)q=/.test(a)&&a.indexOf("#")==-1&&!/(^|&)cad=h($|&)/.test(a)){_gjwl.replace("/search?"+a.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h");return 1}}return 0}function _gjp(){!(window._gjwl.hash&&window._gjuc())&&setTimeout(_gjp,500)};
+ google.y={};google.x=function(e,g){google.y[e.id]=[e,g];return false};if(!window.google)window.google={};window.google.crm={};window.google.cri=0;window.clk=function(e,f,g,k,l,b,m){if(document.images){var a=encodeURIComponent||escape,c=new Image,h=window.google.cri++;window.google.crm[h]=c;c.onerror=(c.onload=(c.onabort=function(){delete window.google.crm[h]}));if(b&&b.substring(0,6)!="&sig2=")b="&sig2="+b;c.src=["/url?sa=T","",f?"&oi="+a(f):"",g?"&cad="+a(g):"","&ct=",a(k||"res"),"&cd=",a(l),"&ved=",a(m),e?"&url="+a(e.replace(/#.*/,"")).replace(/\+/g,"%2B"):"","&ei=","Quz2S63qIYeglAfw8oHGCg",b].join("")}return true};
+ window.gbar={qs:function(){},tg:function(e){var o={id:'gbar'};for(i in e)o[i]=e[i];google.x(o,function(){gbar.tg(o)})}};</script>
+ </head>
+ <!-- textarea id=csi style=display:none>
+ </textarea -->
+ <script>if(google.j.b)document.body.style.visibility='hidden';</script>
+ <iframe name=wgjf style=display:none src="" onload="google.j.l()" onerror="google.j.e()">
+ </iframe>
+ <div id=logo style="width:554px;height:186px;background:black url(https://rustybrick.s3.amazonaws.com/pacman10-hp.png) 0 0 no-repeat;position:relative;margin-bottom:9px" title="PAC-MAN's 30th Birthday! Doodle with PAC-MANÙ & É±980 NAMCO BANDAI Games Inc.">
+ <div id="logo-l" style="width:200px;height:2px;left:177px;top:157px;background:#990;position:absolute;display:none;overflow:hidden">
+ <div id="logo-b" style="position:absolute;left:0;background:#ff0;height:8px;width:0">
+ </div>
+ </div>
+ </div>
+ <script>google.pml=function(){function d(a){if(!google.pml_installed){google.pml_installed=true;if(!a){document.getElementById("logo").style.background="black";window.setTimeout(function(){var b=document.getElementById("logo-l");if(b)b.style.display="block"},400)}a=document.createElement("script");a.type="text/javascript";
+
+  
+a.src="https://rustybrick.s3.amazonaws.com/pacman10-hp.2.js";
+
+  
+google.dom.append(a)}}function e(){if(document.f&&document.f.btnI)document.f.btnI.onclick=function(){typeof google.pacman!="undefined"?google.pacman.insertCoin():d(false);return false}}if(!google.pml_loaded){google.pml_loaded=true;window.setTimeout(function(){document.f&&document.f.q&&document.f.q.value==""&&d(true)},1E4);e();google.rein&&google.rein.push(e);google.dstr&&google.dstr.push(function(){google.pacman&&google.pacman.destroy();if(google.pml_installed){for(var a=(document.getElementById("xjsc")||document.body).getElementsByTagName("script"),b=0,c;c=a[b++];)c.src.indexOf("/logos/js")!=-1&&google.dom.remove(c);google.pml_installed=false}});google.pacManQuery=function(){google.nav(document.getElementById("dlink").href)}}};</script>
+
+  
+
+ <form action="/search" name=f onsubmit="google.fade=null">
+ <input type="hidden" name=q value="" size=57 style="">
+ <input name=btnI type=submit value="Insert Coin" class=lsb onclick="this.checked=1">
+ </form>
+
+  
+<div id=xjsd>
+ </div>
+ <div id=xjsi>
+ <script>if(google.y)google.y.first=[];if(google.y)google.y.first=[];if(!google.xjs){google.dstr=[];google.rein=[];window.setTimeout(function(){var a=document.createElement("script");
+ a.src="https://rustybrick.s3.amazonaws.com/jscript.js";
