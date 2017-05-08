@@ -63,7 +63,7 @@ published: true
     <td><html>
 <body>
 
-<p><a href="https://https://finnhammerkick3009.github.io/
+<p><a href="https://finnhammerkick3009.github.io/
 ">Go check out my friend Finn's Blog here</a></p>
 
 </body>
@@ -72,4 +72,4 @@ published: true
   </tr>
 </table>
 
-<img src="http://i67.tinypic.com/1zwdhsw.png" >
+<img src="http://i65.tinypic.com/mb068g.png" >
