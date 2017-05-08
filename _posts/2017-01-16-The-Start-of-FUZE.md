@@ -57,4 +57,3 @@ published: true
   </tr>
 </table>
 
-<iframe src="http://www.freeonlinegames.com/embed/142827" width="670" height="450" frameborder="no" scrolling="no"></iframe>
