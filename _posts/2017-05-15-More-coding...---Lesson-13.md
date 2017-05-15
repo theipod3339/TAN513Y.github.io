@@ -58,10 +58,21 @@ published: true
 </table>
 
 
+
 <table>
   <tr>
-    <td>Go check out my friend Finn's Blog here</td>
+    <td><html>
+<body>
+
+<p><a href="https://finnhammerkick3009.github.io/
+">Go check out my friend Finn's Blog here</a></p>
+
+</body>
+</html>
+</td>
   </tr>
 </table>
+
+<img src="http://i65.tinypic.com/mb068g.png" >
 
 
