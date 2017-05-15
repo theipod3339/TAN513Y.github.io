@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes I started being 19% through, I am now over 23% through.</td>
+    <td> Yes, I started being 19% through, I am now over 23% through.</td>
   </tr>
 </table>
 
@@ -53,15 +53,22 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to stay focused and not get distracted by people around me. Especially harvey.</td>
+    <td>I will try to stay focused and not get distracted by people around me. Especially Harvey.</td>
   </tr>
 </table>
-
 
 <table>
   <tr>
-    <td>Go check out my friend Finn's Blog here</td>
+    <td><html>
+<body>
+
+<p><a href="https://finnhammerkick3009.github.io/
+">Go check out my friend Finn's Blog here</a></p>
+
+</body>
+</html>
+</td>
   </tr>
 </table>
 
-
+<img src="http://i65.tinypic.com/mb068g.png" >
