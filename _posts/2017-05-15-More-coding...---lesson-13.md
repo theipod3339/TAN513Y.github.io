@@ -1,5 +1,5 @@
 ---
-title: Making some progress  -Lesson 13
+title: Making some progress  -lesson 13
 layout: post
 author: niklas.damarell
 permalink: /more-coding...---lesson-13/
