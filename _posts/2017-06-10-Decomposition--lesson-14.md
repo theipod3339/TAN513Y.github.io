@@ -28,3 +28,32 @@ I also learnt that computers ONLY work in yes and no or 1 and 0</td>
 </table>
 
 
+<table>
+  <tr>
+    <td><html>
+<body>
+
+<p><a href="https://finnhammerkick3009.github.io/
+">Go check out my friend Finn's Blog here</a></p>
+
+</body>
+</html></td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td><html>
+<body>
+
+<p><a href="https://xxandrew99.github.io/
+">Go check out my friend Andrew's Blog here</a></p>
+
+</body>
+</html></td>
+  </tr>
+</table>
+
+
+
