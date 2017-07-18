@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>cover coding - lesson 16</td>
+    <td>cover coding - lesson ?</td>
     <td>Date</td>
-    <td>20/6/17</td>
+    <td>11/6/17</td>
   </tr>
 </table>
 
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>I wanted to reach as far as I could without help</td>
+    <td>I wanted to reach as far as I could - battle ships without help</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> I managed to make good progress even though I didn't have much help.</td>
+    <td> I managed to make good progress even though I didn't have much help - i got up to battle ships</td>
   </tr>
 </table>
 
@@ -41,40 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I made a good couple of percent of progress and I feel that i am more confident with python.</td>
+    <td>I made a good couple of percent of progress and I feel that i am more confident with python. - got up to 57 %</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I think that as it was so hot I couldn't work as hard as usual.</td>
+    <td>I think i needed to think in a different mindset.</td>
   </tr>
   <tr>
-    <td>
-    <html>
-<body>
-
-<p><a href="https://finnhammerkick3009.github.io/
-">Go check out my friend Finn's Blog here</a></p>
-
-</body>
-</html>
-</td>
+    <td></td>
   </tr>
-
   <tr>
-    <td>
-   <html>
-<body>
-
-<p><a href="https://xxandrew99.github.io/
-">Go check out my friend Andrew's Blog here</a></p>
-
-</body>
-</html>
-</td>
+    <td></td>
   </tr>
-  
 </table>
 
 
