@@ -18,3 +18,4 @@ A table can include many factors such as including profits and calculating disco
 
 Today I managed to sort out what the profits were after tax. Profits were at 20% and next week I am going to add prices before and after tax and have the profits changed to be as they should, although I already started this and I already know how I am going to do this.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGLlrbeTgx3L8JAnwkzrHMB6BXagLhkZNfV_WxMaaNAvszA_GeQKktS_CyvTWr3hpoP9QFLY9KZ418/pubhtml?widget=true&amp;headers=false"></iframe>
